@@ -13,13 +13,13 @@
       {
         "src": "/products",
         "dest": "index.js"
-      },
+      }, 
       {
         "src": "/products/(.*)",
         "dest": "index.js"
       },
       {
-        "src": "/add",
+        "src": "/  ",    
         "dest": "build/index.html"
       },
       {
